@@ -2,8 +2,7 @@
 
 A simple and interactive task list web app built with **HTML, CSS, and JavaScript**. Users can **add tasks, mark them as completed, and delete them**.
 
-![Task List Preview](screenshot.png)  <!-- Replace with an actual screenshot -->
-
+![Task List Preview](Task List.png)
 ## 🌟 Features  
 - Add tasks dynamically  
 - Strike-through completed tasks  
