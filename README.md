@@ -27,6 +27,6 @@ Check out the live version of this project here: **[GitHub Pages Link](https://m
 ## 📌 Installation  
 To run the project locally:  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name  
-open index.html  
+git clone https://github.com/Mayuresh-G-Mhatre/Task-List-Project.git
+cd Task-List-Project
+open index.html
