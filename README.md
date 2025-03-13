@@ -16,7 +16,7 @@ A simple and interactive task list web app built with **HTML, CSS, and JavaScrip
 - **JavaScript** – Functionality (adding, deleting, marking tasks)  
 
 ## 📂 Live Demo  
-Check out the live version of this project here: **[GitHub Pages Link](https://your-username.github.io/your-repo-name/)**  
+Check out the live version of this project here: **[GitHub Pages Link]((https://mayuresh-g-mhatre.github.io/Task-List-Project/))**  
 
 ## 🚀 How to Use  
 1. Enter a task in the input box.  
